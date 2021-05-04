@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome to Slash Network](README.md)
 * [Decentralization Approach](slash-decentralization-approach.md)
 
 ## Slash Token <a id="slash-token-1"></a>
