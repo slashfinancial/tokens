@@ -1,2 +1,0 @@
-# Key Idea - Simple Example
-

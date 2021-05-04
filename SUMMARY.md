@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Decentralization Approach](slash-decentralization-approach/README.md)
-  * [Key Idea - Simple Example](slash-decentralization-approach/key-idea-simple-example.md)
+* [Decentralization Approach](slash-decentralization-approach.md)
 
 ## Slash Token <a id="slash-token-1"></a>
 
