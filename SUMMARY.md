@@ -12,7 +12,7 @@
 
 ## Slash Protocol
 
-* [Slash Protocol Architecture](slash-protocol/slash-protocol-architecture.md)
+* [Overview](slash-protocol/slash-protocol-architecture.md)
 * [SMP - Media and Production](slash-protocol/smp-media-and-production.md)
 * [SCM - Creative Marketing](slash-protocol/scm-creative-marketing.md)
 * [SSM - Sellers and Merchants](slash-protocol/ssm-sellers-and-merchants.md)
