@@ -18,3 +18,11 @@
 * [SSM - Sellers and Merchants](slash-protocol/ssm-sellers-and-merchants.md)
 * [SRA - Retarget Audiences](slash-protocol/sra-retarget-audiences.md)
 
+## Slash on Social Medias
+
+* [Telegram Channel](https://t.me/slashfinancial)
+* [Facebook](https://www.facebook.com/slashfinancial)
+* [Twitter](https://www.twitter.com/slashfinancial)
+* [Medium](https://medium.com/@slashfinancial)
+* [Reddit](https://reddit.com/u/slashfinancial)
+
