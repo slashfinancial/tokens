@@ -3,10 +3,10 @@
 * [Welcome to Slash Network](README.md)
 * [Decentralization Approach](slash-decentralization-approach.md)
 
-## Slash Token <a id="slash-token-1"></a>
+## Slash Token <a href="#slash-token-1" id="slash-token-1"></a>
 
 * [$SLSH](slash-token-1/slash-token.md)
-* [TomoChain The Platform](slash-token-1/tomochain-the-platform.md)
+* [Binance Smart Chain The Platform](slash-token-1/tomochain-the-platform.md)
 * [Transactions and Fee](slash-token-1/transactions-and-fee.md)
 * [Security](slash-token-1/security.md)
 
@@ -25,4 +25,3 @@
 * [Twitter](https://www.twitter.com/slashfinancial)
 * [Medium](https://medium.com/@slashfinancial)
 * [Reddit](https://reddit.com/u/slashfinancial)
-
